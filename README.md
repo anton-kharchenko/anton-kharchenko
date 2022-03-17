@@ -19,7 +19,7 @@
 
 I always make sure that I find enough time for open source contribution that also helps me expand my knowledge and work with other developers and team globally.
 
-- 🛒 [](https://github.com/anonymousStyleKiller/Aurora/): Aurora is a Clean Architecture Solution Template for Blazor Webassembly 5.0 built with MudBlazor Components.
+- 🛒 [RoseX](https://github.com/anonymousStyleKiller/RoseX): RoseX is a Clean Architecture Solution Template for Blazor Webassembly 6.0 built with MudBlazor Components.
 - 💥 [LeetCode](https://github.com/anonymousStyleKiller/LeetCode): Collection of Solutions the exercises from portal https://leetcode.com/
 
 <p align="center">
