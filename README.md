@@ -1,5 +1,5 @@
 ![Header](https://www.dotnetconf.net/img/remote-conference.svg)
-<h1 align="center">Hi there, I'm Anton Kharchenko 👋</h1>
+<h1 align="center">Hi everyone, I'm Anton Kharchenko 👋</h1>
 
 <p align="center">
  <a href="https://twitter.com/ToxaToxaToxa1" alt="anton's twitter">
