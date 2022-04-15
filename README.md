@@ -1,4 +1,4 @@
-![Header](https://i.ytimg.com/vi/RiKcSDbGVXw/maxresdefault.jpg)
+![Header](https://www.dotnetconf.net/img/remote-conference.svg)
 <h1 align="center">Hi there, I'm Anton Kharchenko 👋</h1>
 
 <p align="center">
