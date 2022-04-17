@@ -53,5 +53,5 @@ I always make sure that I find enough time for open source contribution that als
 
 ## 📊 GitHub Stats
 
-[![Anton Kharchenko's GitHub stats](https://github-readme-stats.vercel.app/api?username=anonymousStyleKiller&theme=tokyonight&show_icons=true)]
+![Anton Kharchenko's GitHub stats](https://github-readme-stats.vercel.app/api?username=anonymousStyleKiller&theme=tokyonight&show_icons=true)
 
