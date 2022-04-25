@@ -1,4 +1,4 @@
-![Header](https://www.dotnetconf.net/img/remote-conference.svg)
+![Header](http://anonymousstylekiller/anonymousStyleKiller/blob/master/Animated%20Logo%20500x500%20px.gif?raw=true)
 <h1 align="center">Hi everyone, I'm Anton Kharchenko 👋</h1>
 
 <p align="center">
