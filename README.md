@@ -1,4 +1,4 @@
-<img align="center" src="https://raw.githubusercontent.com/anonymousStyleKiller/anonymousStyleKiller/master/Animated%20Logo%20500x500%20px.gif" width="400" hight="420">
+<img align="center" src="https://raw.githubusercontent.com/anonymousStyleKiller/anonymousStyleKiller/master/Animated%20Logo%20500x500%20px.gif" width="800" hight="500">
 <h1 align="center">Hi everyone, I'm Anton Kharchenko 👋</h1>
 
 <p align="center">
