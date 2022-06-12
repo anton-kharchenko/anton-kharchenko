@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/anonymousStyleKiller/anonymousStyleKiller/master/Animated%20Logo%20500x500%20px.gif)
+<div align="center">![Header](https://raw.githubusercontent.com/anonymousStyleKiller/anonymousStyleKiller/master/Animated%20Logo%20500x500%20px.gif)</h1>
 <h1 align="center">Hi everyone, I'm Anton Kharchenko 👋</h1>
 
 <p align="center">
