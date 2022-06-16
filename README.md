@@ -1,4 +1,3 @@
-<img align="center" src="https://raw.githubusercontent.com/anonymousStyleKiller/anonymousStyleKiller/master/Animated%20Logo%20500x500%20px.gif" width="600" hight="300">
 <h1 align="center">Hi everyone, I'm Anton Kharchenko 👋</h1>
 
 <p align="center">
@@ -15,12 +14,6 @@
 
 
 > I’m a software engineer specializing in building Web Applications. For the frontend I love building WebApplication using React & ASP.NET Core (Blazor or MVC / Razor Pages). As for the backend, I work with ASP.NET Core WebAPIs following Clean Architecture Principles. 
-
-#### 💻 Open Source Contributions
-
-I always make sure that I find enough time for open source contribution that also helps me expand my knowledge and work with other developers and team globally.
-
-- 💥 [LeetCode](https://github.com/anonymousStyleKiller/LeetCode): Collection of Solutions the exercises from portal https://leetcode.com/
 
 <p align="center">
  <strong>
