@@ -18,17 +18,6 @@ hi, i'm [Anton Kharchenko](https://www.linkedin.com/in/anton-kharchenko-89887019
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-![Hello](Hello.gif)
-
-![Name](name.png)
-
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/imanishbarnwal?style=social)](https://twitter.com/intent/follow?screen_name=imanishbarnwal) [![Linkedin Badge](https://img.shields.io/badge/-Manish_Kumar_Barnwal-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/imanishbarnwal)](https://www.linkedin.com/in/imanishbarnwal) [![GitHub followers](https://img.shields.io/github/followers/imanishbarnwal?label=Follow&style=social)](https://github.com/imanishbarnwal/?tab=follow)
-[![Gmail Badge](https://img.shields.io/badge/-imanishbarnwal@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:imanishbarnwal@gamil.com)](mailto:imanishbarnwal@gmail.com) [![Facebook Badge](https://img.shields.io/badge/-Manish_Kumar_Barnwal-4267b2?style=social&&logo=Facebook&logoColor=blue&link=https://www.facebook.com/imanishbarnwal)](https://www.facebook.com/imanishbarnwal) [![Instagram Badge](https://img.shields.io/badge/-@imanishbarnwal-833ab4?style=social&logo=Instagram&logoColor=A14DAF&link=https://www.instagram.com/imanishbarnwal)](https://www.instagram.com/imanishbarnwal)
-
-I'm an engineering student and a to-be developer 👨‍💻 from India who is passionate about Machine Learning, Python Development and opensource. I'm also a self procliamed digital marketer and internet surfer 🏄‍♂️. 
-
-
 <img align="right" height="400" width="400" alt="" src="https://camo.githubusercontent.com/f9a322c724f1cbb47a2bbb5407a1abbd9b1f2a7481f0fce08bd177b59719e1b9/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f68756c615f6c6f6f705f6f63746f64657830332e676966" />
 
 ### About me :eyes:
