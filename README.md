@@ -6,9 +6,6 @@
 <a href="https://www.linkedin.com/in/anton-kharchenko-898870195/">
   <img align="left" alt="Anton's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.facebook.com/profile.php?id=100011361646384">
-  <img align="left" alt="Anton's Facebook" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/facebook.png" />
-</a>
 <a href="https://github.com/anonymousStyleKiller">
   <img align="left" alt="Anton's github" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/github.png" />
 </a>
