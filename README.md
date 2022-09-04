@@ -85,14 +85,13 @@ Other        7 mins          ░░░░░░░░░░░░░░░░░
 
 <!-- ![snake gif](https://github.com/imanishbarnwal/imanishbarnwal/blob/output/github-contribution-grid-snake.gif) -->
 
-<!--END_SECTION:waka-->
-
-If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/gumb1t97F?new=1" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
 ##
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://www.linkedin.com/in/anton-kharchenko-898870195/) and introduce yourself (don’t just say hi, tell me about yourself")</b> 😊 💜</em>
+
+<!--END_SECTION:waka-->
+P.S. If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+
+<a href="https://www.buymeacoffee.com/gumb1t97F?new=1" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
 
