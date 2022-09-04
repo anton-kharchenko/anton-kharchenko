@@ -1,4 +1,4 @@
-<h1 align="center">Hi everyone, I'm [Anton Kharchenko](https://www.linkedin.com/in/anton-kharchenko-898870195/) 👋</h1>
+<h1 align="center">Hi everyone, I'm Anton Kharchenko 👋</h1>
 
 <a href="https://www.instagram.com/kh4_off/">
   <img align="left" alt="Anton's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
