@@ -9,9 +9,6 @@
 <a href="https://github.com/anonymousStyleKiller">
   <img align="left" alt="Anton's github" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/github.png" />
 </a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=anonymousStyleKiller.anonymousStyleKiller)
-
 <br />
 
 hi, i'm [Anton Kharchenko](https://www.linkedin.com/in/anton-kharchenko-898870195/), a passionate self-taught full stack web developer. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
@@ -22,14 +19,14 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 ### About me :eyes:
 
-- 🔭 I’m currently working on [@opendaylight](https://github.com/opendaylight)
+- 🔭 I’m currently working on [@MPortal](https://user.microinvest.net/)
 - 🌱 I’m currently learning Data Structures & Algorithms.
 - 💬 Ask me about: tech, memes, webseries
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - 👯 I’m looking to collaborate with new project ideas
 - 📫 How to reach me: Links are given above 🔝
 - 😄 Pronouns: he/him
-- ⚡ Languages: Python, C, C++
+- ⚡ Languages: C#, JavaScript
 - 🤪 Fun fact: I love to travel and meet new people.
 
 ![](https://komarev.com/ghpvc/?username=imanishbarnwal&style=plastic)
