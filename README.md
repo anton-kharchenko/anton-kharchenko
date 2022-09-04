@@ -80,13 +80,13 @@ If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <details>	
   
-<img src="https://github-readme-stats.vercel.app/api?username=imanishbarnwal&show_icons=true&hide_border=true&count_private=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanishbarnwal&show_icons=true&hide_border=true&layout=compact&langs_count=8">
+<img src="https://github-readme-stats.vercel.app/api?username=anonymousStyleKiller&show_icons=true&hide_border=true&count_private=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anonymousStyleKiller&show_icons=true&hide_border=true&layout=compact&langs_count=8">
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imanishbarnwal&show_icons=true&hide_border=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anonymousStyleKiller&show_icons=true&hide_border=true">
 </p> 
 
-![Manish's GitHub Activity graph](https://activity-graph.herokuapp.com/graph?username=imanishbarnwal&theme=dracula) 
+![Manish's GitHub Activity graph](https://activity-graph.herokuapp.com/graph?username=anonymousStyleKiller&theme=dracula) 
 </details>
 
 <!-- ![snake gif](https://github.com/imanishbarnwal/imanishbarnwal/blob/output/github-contribution-grid-snake.gif) -->
