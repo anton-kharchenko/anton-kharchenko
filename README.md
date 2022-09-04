@@ -51,7 +51,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 
-📊 **this week i spent my time on:**
+📊 **This week i spent my time on:**
 <!--START_SECTION:waka-->
 
 ```text
@@ -62,7 +62,7 @@ JSON         20 mins         ▒░░░░░░░░░░░░░░░░
 Other        7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
-🚧 **my todoist stats:**
+🚧 **My todoist stats:**
 <!-- TODO-IST:START -->
 🏆  7,995 Karma Points           
 🌸  Completed 0 tasks today           
