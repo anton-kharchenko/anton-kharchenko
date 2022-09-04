@@ -1,4 +1,4 @@
-<h1 align="center">Hi everyone, I'm Anton Kharchenko 👋</h1>
+<h1 align="center">Hi everyone, I'm [Anton Kharchenko](https://www.linkedin.com/in/anton-kharchenko-898870195/) 👋</h1>
 
 <a href="https://www.instagram.com/kh4_off/">
   <img align="left" alt="Anton's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
@@ -11,7 +11,7 @@
 </a>
 <br />
 
-hi, i'm [Anton Kharchenko](https://www.linkedin.com/in/anton-kharchenko-898870195/), a passionate self-taught full stack web developer. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+I a passionate self-taught full stack web developer. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
