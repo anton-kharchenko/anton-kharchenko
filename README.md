@@ -54,6 +54,7 @@ SQL          48 mins         ▓░░░░░░░░░░░░░░░░
 JSON         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
 Other        7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
+
 ### 🚧 My todoist stats
 <!-- TODO-IST:START -->
 🏆  7,995 Karma Points           
@@ -84,5 +85,3 @@ P.S. If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/gumb1t97F?new=1" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-
-
