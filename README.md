@@ -1,5 +1,4 @@
 <h1 align="center">Hi everyone, I'm Anton Kharchenko 👋</h1>
-
 <a href="https://www.instagram.com/kh4_off/">
   <img align="left" alt="Anton's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -19,7 +18,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <img align="right" height="400" width="400" alt="" src="https://camo.githubusercontent.com/f9a322c724f1cbb47a2bbb5407a1abbd9b1f2a7481f0fce08bd177b59719e1b9/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f68756c615f6c6f6f705f6f63746f64657830332e676966" />
 
 ### About me :eyes:
-
 - 🔭 I’m currently working on [MPortal](https://user.microinvest.net/)
 - 🌱 I’m currently learning Data Structures & Algorithms.
 - 💬 Ask me about: tech, memes, webseries
@@ -47,13 +45,12 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="26" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
 <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"></code></p></br>
+<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"></code></p>
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 📊 **This week i spent my time on:**
 <!--START_SECTION:waka-->
-
 ```text
 ASP Net      30 hrs 41 mins  █████████████░░░░░░░░░░░░   58.65 %
 Blazor       20 hrs 40 mins  ██████████░░░░░░░░░░░░░░░   36.95 %
@@ -71,7 +68,6 @@ Other        7 mins          ░░░░░░░░░░░░░░░░░
 <!-- TODO-IST:END -->
 
 ### ⚡ Github Stats
-
 <details>	
   
 <img src="https://github-readme-stats.vercel.app/api?username=anonymousStyleKiller&show_icons=true&hide_border=true&count_private=true">
