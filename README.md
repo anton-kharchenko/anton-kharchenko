@@ -34,8 +34,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```text
-Asp Net   60 hrs 41 mins  █████████████████████░░░░   84.65 %
-Blazor   2 hrs 40 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.95 %
+ASP Net      60 hrs 41 mins  █████████████████████░░░░   84.65 %
+Blazor       2 hrs 40 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.95 %
 SQL          48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
 JSON         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
 Other        7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
