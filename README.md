@@ -11,7 +11,7 @@
 </a>
 <br />
 
-I a passionate self-taught full stack web developer. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+I am a passionate self-taught full stack web developer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
@@ -28,8 +28,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - 😄 Pronouns: he/him
 - ⚡ Languages: C#, JavaScript
 - 🤪 Fun fact: I love to travel and meet new people.
-- 💼 any work? do reach, [email](mailto:gumb1t97@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+- 💼 Any work? do reach, [email](mailto:gumb1t97@gmail.com).
+- 💬 Ask me about anything, i am happy to help.
 
 ![](https://komarev.com/ghpvc/?username=anonymousStyleKiller&style=plastic)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/anonymousStyleKiller)
@@ -92,7 +92,7 @@ If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <!-- ![snake gif](https://github.com/imanishbarnwal/imanishbarnwal/blob/output/github-contribution-grid-snake.gif) -->
 
 ##
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://www.linkedin.com/in/imanishbarnwal) and introduce yourself (don’t just say hi, tell me about yourself")</b> 😊 💜</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://www.linkedin.com/in/anton-kharchenko-898870195/) and introduce yourself (don’t just say hi, tell me about yourself")</b> 😊 💜</em>
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
 
