@@ -29,8 +29,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - ⚡ Languages: C#, JavaScript
 - 🤪 Fun fact: I love to travel and meet new people.
 
-![](https://komarev.com/ghpvc/?username=imanishbarnwal&style=plastic)
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/imanishbarnwal)
+![](https://komarev.com/ghpvc/?username=anonymousStyleKiller&style=plastic)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/anonymousStyleKiller)
 
 <!-- ### Spotify Playing 🎧
 
