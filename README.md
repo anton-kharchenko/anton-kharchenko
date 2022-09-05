@@ -28,8 +28,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - 😄 Pronouns: he/him
 - ⚡ Languages: C#, JavaScript
 - 🤪 Fun fact: I love to travel and meet new people.
-- 💼 Any work? do reach, [email](mailto:gumb1t97@gmail.com).
-- 💬 Ask me about anything, i am happy to help.
+- 💼 Any work? Do reach, [email](mailto:gumb1t97@gmail.com).
+- 💬 Ask me about anything, I am happy to help.
 
 ![](https://komarev.com/ghpvc/?username=anonymousStyleKiller&style=plastic)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/anonymousStyleKiller)
