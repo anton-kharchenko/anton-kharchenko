@@ -22,7 +22,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - 🔭 I’m currently working on [MPortal](https://user.microinvest.net/)
 - 🌱 I’m currently learning Data Structures & Algorithms.
 - 💬 Ask me about: tech, memes, webseries
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2022-2023 Goals: Contribute more to Open Source projects
 - 👯 I’m looking to collaborate with new project ideas
 - 📫 How to reach me: Links are given above 🔝
 - 😄 Pronouns: he/him
