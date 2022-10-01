@@ -20,16 +20,16 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 ### :eyes: About me 
 - 🔭 I’m currently working on [MPortal](https://user.microinvest.net/)
-- 🌱 I’m currently learning Data Structures & Algorithms.
+- 🌱 I’m currently learning Data Structures & Algorithms
 - 💬 Ask me about: tech, memes, webseries
 - 🥅 2022-2023 Goals: Contribute more to Open Source projects
 - 👯 I’m looking to collaborate with new project ideas
 - 📫 How to reach me: Links are given above 🔝
 - 😄 Pronouns: he/him
 - ⚡ Languages: C#, JavaScript
-- 🤪 Fun fact: I love to travel and meet new people.
-- 💼 Any work? Do reach, [email](mailto:gumb1t97@gmail.com).
-- 💬 Ask me about anything, I am happy to help.
+- 🤪 Fun fact: I love to travel and meet new people
+- 💼 Any work? ---> [email](mailto:gumb1t97@gmail.com)
+- 💬 Ask me about anything, I am happy to help
 
 ![](https://komarev.com/ghpvc/?username=anonymousStyleKiller&style=plastic)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/anonymousStyleKiller)
