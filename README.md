@@ -55,15 +55,6 @@ SQL          48 mins         ▓░░░░░░░░░░░░░░░░
 JSON         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
 Other        7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
-
-### 🚧 My todoist stats
-<!-- TODO-IST:START -->
-🏆  7,995 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
-
 ### ⚡ Github Stats
 <details>	
   
