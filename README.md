@@ -20,7 +20,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 ### :eyes: About me 
 - 🔭 I’m currently working on [MPortal](https://user.microinvest.net/)
-- 🌱 I’m currently learning Data Structures & Algorithms
+- 🌱 I’m currently deeply learning microservices on .Net
 - 💬 Ask me about: tech, memes, webseries
 - 🥅 2022-2023 Goals: Contribute more to Open Source projects
 - 👯 I’m looking to collaborate with new project ideas
