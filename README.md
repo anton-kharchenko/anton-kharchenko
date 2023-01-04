@@ -47,8 +47,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 ### ⚡ Github Stats
-<details>	
-  
 <img src="https://github-readme-stats.vercel.app/api?username=anonymousStyleKiller&show_icons=true&hide_border=true&count_private=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anonymousStyleKiller&show_icons=true&hide_border=true&layout=compact&langs_count=8">
 <p align="center">
@@ -56,7 +54,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 </p> 
 
 ![Manish's GitHub Activity graph](https://activity-graph.herokuapp.com/graph?username=anonymousStyleKiller&theme=dracula) 
-</details>
+
 
 <!-- ![snake gif](https://github.com/imanishbarnwal/imanishbarnwal/blob/output/github-contribution-grid-snake.gif) -->
 
