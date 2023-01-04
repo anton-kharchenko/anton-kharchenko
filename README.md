@@ -46,15 +46,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-### 📊 This week i spent my time on
-<!--START_SECTION:waka-->
-```text
-ASP Net      30 hrs 41 mins  █████████████░░░░░░░░░░░░   58.65 %
-Blazor       20 hrs 40 mins  ██████████░░░░░░░░░░░░░░░   36.95 %
-SQL          48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
-JSON         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
-Other        7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-```
 ### ⚡ Github Stats
 <details>	
   
