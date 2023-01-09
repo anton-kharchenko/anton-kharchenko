@@ -53,9 +53,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anonymousStyleKiller&show_icons=true&hide_border=true">
 </p> 
 
-![Manish's GitHub Activity graph](https://activity-graph.herokuapp.com/graph?username=anonymousStyleKiller&theme=dracula) 
-
-
 <!-- ![snake gif](https://github.com/imanishbarnwal/imanishbarnwal/blob/output/github-contribution-grid-snake.gif) -->
 
 ##
