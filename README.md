@@ -13,6 +13,7 @@
 </a>
 <br/>
 <br/>
+<br/>
 
 👋 Welcome to my GitHub profile! I bring over 4 years of dedicated experience as a Software Engineer, specializing in creating scalable systems utilizing C#, .NET, Kafka, Redis, and Microsoft Azure technologies. Proficient in object-oriented programming and software design principles, I excel in developing high-quality web-based applications, robust APIs, and efficient databases.
 
@@ -45,7 +46,10 @@ I measure success not only by the quality of code I produce but also by the posi
 <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="26" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
 <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"></code></p>
+<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"></code>
+<code><img height="26" src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"></code>
+
+</p>
 
   
 ### ⚡ Github Stats
