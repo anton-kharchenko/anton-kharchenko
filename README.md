@@ -13,8 +13,6 @@
 </a>
 <br/>
 <br/>
-<br/>
-<br/>
 
 👋 Welcome to my GitHub profile! I bring over 4 years of dedicated experience as a Software Engineer, specializing in creating scalable systems utilizing C#, .NET, Kafka, Redis, and Microsoft Azure technologies. Proficient in object-oriented programming and software design principles, I excel in developing high-quality web-based applications, robust APIs, and efficient databases.
 
