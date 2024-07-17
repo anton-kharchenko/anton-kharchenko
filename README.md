@@ -1,26 +1,18 @@
 <h1 align="center">Hi everyone, I'm Anton Kharchenko 👋</h1>
-<a href="https://www.instagram.com/kh4_off/">
-  <img align="left" alt="Anton's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+<a href="https://github.com/anton-kharchenko">
+  <img align="left" alt="Anton's leetcode" width="22px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/kharchenko-anton/">
   <img align="left" alt="Anton's LinkedIN" width="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/anton-kharchenko">
-  <img align="left" alt="Anton's gituhb" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/github.png" />
+  <img align="left" alt="Anton's gituhb" width="22px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://leetcode.com/u/anton-kharchenko/">
+  <img align="left" alt="Anton's Instagram" width="22px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 👋 Welcome to my GitHub profile! I bring over 4 years of dedicated experience as a Software Engineer, specializing in creating scalable systems utilizing C#, .NET, Kafka, Redis, and Microsoft Azure technologies. Proficient in object-oriented programming and software design principles, I excel in developing high-quality web-based applications, robust APIs, and efficient databases.
-
-My technical skill set includes expertise in:
-
-Languages: C#, JavaScript
-Frameworks: .NET Core, ASP.NET
-Technologies: Kafka, Entity Framework, Blazor, Docker, Kafka, SpecFlow, gRPC, Grafana
-Databases: SQL Server, MSSQL, PostgreSQL, Redis
-Version Control: Git
-Testing: Unit Testing, Integration Testing
-Agile Methodologies: Scrum, Kanban
-Knowledge: Algorithms & Data Structures, System Designing, Object-Oriented Programming (OOP)
 
 In addition to technical proficiency, I prioritize effective team communication and collaboration. My track record includes successful cross-functional projects where I've contributed to problem-solving and innovation.
 
@@ -31,7 +23,7 @@ I measure success not only by the quality of code I produce but also by the posi
 ### :eyes: About me 
 - 🌱 I’m currently deeply learning microservices on .Net
 - 💬 Ask me about: tech, memes, webseries
-- 🥅 2024-2025 Goals: Get job in Big Tech Company
+- 🥅 2024-2025 Goals: Get job in FAANG company
 - 👯 I’m looking to collaborate with new project ideas
 - 📫 How to reach me: Links are given above 🔝
 - 😄 Pronouns: he/him
