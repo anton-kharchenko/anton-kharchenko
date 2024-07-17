@@ -11,6 +11,9 @@
 <a href="https://www.instagram.com/kh4_off/">
   <img align="left" alt="Anton's Instagram" height="42px" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
+<a href="https://t.me/anton_khar4enko">
+  <img align="left" alt="Anton's Telegram" height="42px" width="100px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
 <br/>
 <br/>
 <br/>
