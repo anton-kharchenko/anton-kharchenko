@@ -1,18 +1,18 @@
-<h1 align="center">Hi everyone, I'm Anton Kharchenko 👋</h1>
+<h1 align="center">Hi everyone, I am Anton Kharchenko 👋</h1>
 <a href="https://github.com/anton-kharchenko">
-  <img align="left" alt="Anton's leetcode" height="42px" width="100px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img align="left" alt="Anton's leetcode" height="50px" width="125px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/kharchenko-anton/">
-  <img align="left" alt="Anton's LinkedIN" height="42px" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img align="left" alt="Anton's LinkedIN" height="50px" width="125px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://leetcode.com/u/anton-kharchenko/">
-  <img align="left" alt="Anton's gituhb" height="42px" width="100px" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  <img align="left" alt="Anton's gituhb" height="50px" width="125px" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
 </a>
 <a href="https://www.instagram.com/kh4_off/">
-  <img align="left" alt="Anton's Instagram" height="42px" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img align="left" alt="Anton's Instagram" height="50px" width="125px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="https://t.me/anton_khar4enko">
-  <img align="left" alt="Anton's Telegram" height="42px" width="100px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img align="left" alt="Anton's Telegram" height="50px" width="125px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 <br/>
 <br/>
