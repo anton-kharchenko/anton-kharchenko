@@ -1,6 +1,6 @@
 <h1 align="center">Hi everyone, I am Anton Kharchenko 👋</h1>
-<a href="https://github.com/anton-kharchenko">
-  <img align="left" alt="Anton's leetcode" height="50px" width="125px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+<a href="mailto:anton.kharchenko.job@gmail.com">
+  <img align="left" alt="Anton's gmail" height="50px" width="125px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/kharchenko-anton/">
   <img align="left" alt="Anton's LinkedIN" height="50px" width="125px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -35,7 +35,6 @@ I measure success not only by the quality of code I produce but also by the posi
 - 😄 Pronouns: he/him
 - ⚡ Languages: C#, JavaScript
 - 🤪 Fun fact: I love to travel and meet new people
-- 💼 Any work? ---> [email](mailto:anton.kharchenko.job@gmail.com)
 - 💬 Ask me about anything, I am happy to help
 
 ![](https://komarev.com/ghpvc/?username=anton-kharchenko&style=plastic)
