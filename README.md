@@ -3,20 +3,11 @@
   <img align="left" alt="Anton's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://www.linkedin.com/in/kharchenko-anton/">
-  <img align="left" alt="Anton's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Anton's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.png" />
 </a>
 <a href="https://github.com/anton-kharchenko">
   <img align="left" alt="Anton's gituhb" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/github.png" />
 </a>
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 
 👋 Welcome to my GitHub profile! I bring over 4 years of dedicated experience as a Software Engineer, specializing in creating scalable systems utilizing C#, .NET, Kafka, Redis, and Microsoft Azure technologies. Proficient in object-oriented programming and software design principles, I excel in developing high-quality web-based applications, robust APIs, and efficient databases.
 
@@ -36,8 +27,6 @@ In addition to technical proficiency, I prioritize effective team communication 
 Outside of work, I'm passionate about staying updated with industry trends through continuous learning and participating in tech communities. I actively engage in extracurricular activities such as attending tech meetups, contributing to open-source projects, and mentoring junior developers.
 
 I measure success not only by the quality of code I produce but also by the positive impact it has on end-users and stakeholders. Let's connect to explore how my skills and experience can contribute to your team's success! 🚀😊
-
-<img align="right" height="400" width="400" alt="" src="https://camo.githubusercontent.com/f9a322c724f1cbb47a2bbb5407a1abbd9b1f2a7481f0fce08bd177b59719e1b9/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f68756c615f6c6f6f705f6f63746f64657830332e676966" />
 
 ### :eyes: About me 
 - 🌱 I’m currently deeply learning microservices on .Net
