@@ -1,4 +1,4 @@
-<h1 align="center">Hi everyone, I am Anton Kharchenko 👋</h1>
+<h1 align="center">Hi everyone, I'm Anton Kharchenko 👋</h1>
 <a href="mailto:anton.kharchenko.job@gmail.com">
   <img align="left" alt="Anton's gmail" height="50px" width="125px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
@@ -14,7 +14,6 @@
 <a href="https://t.me/anton_khar4enko">
   <img align="left" alt="Anton's Telegram" height="50px" width="125px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
-<br/>
 <br/>
 <br/>
 
