@@ -9,7 +9,7 @@
   <img align="left" alt="Anton's gituhb" width="22px" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
 </a>
 <a href="https://www.instagram.com/kh4_off/">
-  <img align="left" alt="Anton's Instagram" width="22px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img align="left" alt="Anton's Instagram" height="40px" width="42px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 👋 Welcome to my GitHub profile! I bring over 4 years of dedicated experience as a Software Engineer, specializing in creating scalable systems utilizing C#, .NET, Kafka, Redis, and Microsoft Azure technologies. Proficient in object-oriented programming and software design principles, I excel in developing high-quality web-based applications, robust APIs, and efficient databases.
