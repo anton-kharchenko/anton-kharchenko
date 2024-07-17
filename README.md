@@ -18,14 +18,6 @@
 <br/>
 <br/>
 
-👋 Welcome to my GitHub profile! I bring over 4 years of dedicated experience as a Software Engineer, specializing in creating scalable systems utilizing C#, .NET, Kafka, Redis, and Microsoft Azure technologies. Proficient in object-oriented programming and software design principles, I excel in developing high-quality web-based applications, robust APIs, and efficient databases.
-
-In addition to technical proficiency, I prioritize effective team communication and collaboration. My track record includes successful cross-functional projects where I've contributed to problem-solving and innovation.
-
-Outside of work, I'm passionate about staying updated with industry trends through continuous learning and participating in tech communities. I actively engage in extracurricular activities such as attending tech meetups, contributing to open-source projects, and mentoring junior developers.
-
-I measure success not only by the quality of code I produce but also by the positive impact it has on end-users and stakeholders. Let's connect to explore how my skills and experience can contribute to your team's success! 🚀😊
-
 ### :eyes: About me 
 - 🌱 I’m currently deeply learning microservices on .Net
 - 💬 Ask me about: tech, memes, webseries
