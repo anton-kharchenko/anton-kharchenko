@@ -20,7 +20,6 @@
 ### :eyes: About me 
 - 🌱 I’m currently deeply learning microservices on .Net
 - 💬 Ask me about: tech, memes, webseries
-- 🥅 2024-2025 Goals: Get job in FAANG company
 - 👯 I’m looking to collaborate with new project ideas
 - 📫 How to reach me: Links are given above 🔝
 - 😄 Pronouns: he/him
