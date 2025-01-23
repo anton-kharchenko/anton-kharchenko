@@ -28,7 +28,6 @@
 - 💬 Ask me about anything, I am happy to help
 
 ![](https://komarev.com/ghpvc/?username=anton-kharchenko&style=plastic)
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/anton-kharchenko)
 
 ### :computer: Languages and Tools
 <code><img height="26" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"></code>
@@ -48,13 +47,6 @@
 <code><img height="26" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></code>
 </p>
 
-  
-### ⚡ Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=anton-kharchenko&show_icons=true&hide_border=true&count_private=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anton-kharchenko&show_icons=true&hide_border=true&layout=compact&langs_count=8">
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anton-kharchenko&show_icons=true&hide_border=true">
-</p> 
 
 <!-- ![snake gif](https://github.com/imanishbarnwal/imanishbarnwal/blob/output/github-contribution-grid-snake.gif) -->
 
