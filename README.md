@@ -21,13 +21,11 @@
 - 🌱 I’m currently deeply learning microservices on .Net
 - 💬 Ask me about: tech, memes, webseries
 - 👯 I’m looking to collaborate with new project ideas
-- 📫 How to reach me: Links are given above 🔝
+- 📫 How to reach me: links are given above 🔝
 - 😄 Pronouns: he/him
 - ⚡ Languages: C#, JavaScript
 - 🤪 Fun fact: I love to travel and meet new people
 - 💬 Ask me about anything, I am happy to help
-
-![](https://komarev.com/ghpvc/?username=anton-kharchenko&style=plastic)
 
 ### :computer: Languages and Tools
 <code><img height="26" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"></code>
